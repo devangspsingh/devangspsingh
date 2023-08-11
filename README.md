@@ -2,7 +2,7 @@ Jai Hind🇮🇳
 
 Learner📚 
 
-played with Python, Django, Pnadas,Javascript, Tailwind, React....
+played with Python, Django, Django Rest Framework, Pandas,Javascript, Tailwind, React, NextJs....
 
 
 
